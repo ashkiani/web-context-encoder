@@ -1,0 +1,34 @@
+{
+  "name": "@ashkiani/web-context-encoder",
+  "version": "1.0.0",
+  "description": "Context-specific encoding utilities for HTML and other web output contexts.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashkiani/web-context-encoder.git"
+  },
+  "keywords": [
+    "security",
+    "encoding",
+    "escaping",
+    "html",
+    "xss",
+    "output-encoding",
+    "nodejs",
+    "utility"
+  ],
+  "author": "Siavash Ashkiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashkiani/web-context-encoder/issues"
+  },
+  "homepage": "https://github.com/ashkiani/web-context-encoder#readme"
+}
